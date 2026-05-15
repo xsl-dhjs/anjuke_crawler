@@ -105,10 +105,4 @@ anjuke_crawler/
 3. 如遇到爬取失败，可尝试更新 `COOKIE` 值
 4. 本工具仅用于学习和研究目的，请遵守目标网站的 robots.txt 规则
 
-## 许可证
 
-MIT License
-
-## 作者
-
-Python 编程项目实战
